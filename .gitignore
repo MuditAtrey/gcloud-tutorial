@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But keep these files and folders
+!.gitignore
+!README.md
+!images/
+!images/*.png
+!Google App Engine Tutorial.pdf
+!student-friendly-tutorial.html
