@@ -574,4 +574,5 @@ gcloud app browse
 
 ---
 
-*Tutorial created based on screenshots from creating a first Google App Engine project.*
+*Created by Mudit Atrey*
+
