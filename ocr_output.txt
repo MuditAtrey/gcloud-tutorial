@@ -1,0 +1,752 @@
+=== Image 1.png ===
+< > @ _ console.cloud.google.com
+
+= Gog a+000:@
+
+-@- App Engine / Dashboard / Start
+
+Dashboard App Engine @DLearn
+Services
+Versions
+
+Instances
+
+Task queues
+
+© Cron jobs
+
+Firewall rules
+
+Quotas
+Memcache
+
+Search Welcome to App Engine
+Build scalable apps in any language on Google's infrastructure
+
+eo
+
+Settings
+
+Cloud Run offers the most modern fully managed application hosting
+experience with lower minimum billable times and support for GPUs on
+demand for your AI/ML workloads. Deploy code written in any
+programming language supported by App Engine on Cloud Run.
+
+Release Notes
+Try Cloud Run
+
+<I
+=== Image 2.png ===
+< > G _ console.cloud.google.com 9
+
+= Gog a+000:@
+
+-@: App Engine / Dashboard / Start / Create
+
+Dashboard Create app @DLearn
+& Services
+Versions © Configure application — @ Get started Clot
+avai
+Instances Goo
+E Task queues . Supt
+_ Region
+© cronies fr
+Select a region for your App Engine application. Please remember, once selected
+Firewall rules the region is permanently tied to the project.
+Quotas
+Memcache
+Search
+Settings
+
+[ Select a region *
+
+Identity and API access
+
+Select a service account ¥ |
+
+If no service account is selected the default App Engine service account will be used.
+
+E_ Release Notes
+
+<I
+=== Image 3.png ===
+Identity and API access
+
+C a service account
+
+= Filter Filter service accounts
+
+5 App Engine default service account
+
+Newserviceaccount —_C Refresh list
+=== Image 4.png ===
+<
+
+>
+
+@ — console.cloud.google.com
+
+-@: App Engine / Dashboard / Start / Create
+
+<I
+
+Dashboard
+Services
+Versions
+Instances
+Task queues
+Cron jobs
+Firewall rules
+Quotas
+Memeache
+Search
+
+Settings
+
+Release Notes
+
+Create app
+
+» Configure application —
+
+© Getstarted
+
+Creating application...
+
+Q
+
+Cloud Run is available in all the
+Google Cloud supported
+regions
+
+Try Cloud Run
+=== Image 5.png ===
+< > @ _ console.cloud.google.com
+
+a a+000:
+
+-@-App Engine / Dashboard / Start / Get started
+
+Dashboard Get started Learn
+i Services
+Versions @ Your App Engine application has been created. Choose the
+
+deployment method that works best for you.
+
+Instances
+
+Task queues Resources
+© Cron jobs Language
+
+Firewall rules [ Python Y |
+
+Quotas Environment
+
+[ Standard - |
+
+% — Memcache
+
+Read App Engine Python Standard Environment Documentation.
+Q Search
+
+Visit Github @ for Python Standard Environment code samples.
+Settings
+
+Deploy with Google Cloud SDK
+
+Initialize your SDK
+
+$ geloud init La)
+Deploy to App Engine
+$ gcloud app deploy Ua}
+
+Build web applications in any language, any framework supported
+Release Notes by App Engine on Cloud Run. Cloud Run supports a variety of
+workloads from simple functions to powerful services and jobs. >
+
+<I
+
+Try
+
+id Run.
+=== Image 6.png ===
+< > @  cloud.google.com
+
+= Google Cloud
+
+JUMP TO
+
+Cloud SDK
+
+Libraries and tools for interacting with Google Cloud
+products and services. Cloud SDK is available at no
+charge for users with a Google Cloud account.
+
+Install Google Cloud CLI Contact sales
+
+Y Integrate APIs using Client Libraries for Java, C++,
+Python, Node,js, Ruby, Go, .NET, PHP, Rust, and ABAP
+
+Script or interact with cloud resources at scale using
+the Google Cloud CLI
+
+Y_ Accelerate local development with emulators for
+Pub/Sub, Spanner, Bigtable, and Datastore
+
+KEY FEATURES
+
+Key features
+
+SDK Client Libraries for popular programming languages
+
+Cloud SDK provides language-specific Cloud Client Libraries
+supporting each languages natural conventions and styles. This
+
+Goosle Clougagy \
+© coegecions
+
+vivEo
+What is the
+
+Google Cloud
+SDK?
+
+3:00
+=== Image 7.png ===
+Last login: Thu Nov 13 20:30:12 on ttyso00
+(base) muditatrey@Ged ~ % tar -xf /Users/muditatrey/Downloads/google-cloud-cli-darwin-arn.tar.gz
+(base) muditatrey@Ged ~ %
+=== Image 8.png ===
+@ © @ B Jg00gIe-cloud-sdkjinstall.sh
+
+Last login: Thu Nov 13 20:30:12 on ttyso00
+(base) muditatrey@Ged ~ % tar -xf /Users/muditatrey/Downloads/google-cloud-cli-darwin-arn.tar.gz
+(base) muditatrey@Ged ~ % ./google-cloud-sdk/install.sh
+
+Welcome to the Google Cloud CLI!
+
+To help improve the quality of this product, we collect anonymized usage data
+and anonymized stacktraces when crashes are encountered; additional information
+
+is available at <https: //cloud.google.com/sdk/usage-statistics>. This data is
+handled in accordance with our privacy policy
+
+<https: //cloud.google.com/terms/cloud-privacy-notice>. You may choose to opt in this
+collection now (by choosing 'Y' at the below prompt), or at any time in the
+
+future by running the following command:
+
+gcloud config set disable_usage_reporting false
+
+Do you want to help improve the Google Cloud CLI (y/N)? nf
+=== Image 9.png ===
+@ © @ B Jg00gIe-cloud-sdkjinstall.sh
+
+Not Installed | gke-gcloud-auth-plugin gke-gcloud-auth-plugin
+3.3 MiB
+
+Not Installed | istioctl istioctl
+26.6 MiB
+
+Not Installed | kpt kpt
+14.5 MiB
+
+Not Installed | kubectl kubectl
+<1 MiB
+
+Not Installed | kubectl-oide kubect1-oide
+20.9 MiB
+
+Not Installed | pkg pkg
+
+Installed BigQuery Command Line Tool bq
+1.8 MiB
+
+Installed Cloud Storage Command Line Toot gsutil
+12.4 MiB
+
+Installed Google Cloud CLI Core Libraries core
+23.2 MiB
+
+Installed Google Cloud CRC32C Hash Tool gcloud-ere320
+
+' 2.4 niB |
+1
+
+To install or remove components at your current Google Cloud CLI version [547.6.8], run
+$ gcloud components install COMPONENT_ID
+$ gcloud components remove COMPONENT_ID
+
+To update your Google Cloud CLI installation to the latest version [547.0.0], run
+$ gcloud components update
+
+Modify profile to update your $PATH and enable shell command completion?
+
+=== Image 10.png ===
+@ © @ B Jg00gIe-cloud-sdkjinstall.sh
+
+| 14.5 MiB
+| Not Instatted | kubectl | kubectt
+| <4 MiB
+| Not Installed | kubect1-oide | kubect1-oide
+| 20.9 MiB
+| Nt Tnstetted | pkg | pkg
+| Installed | Bigquery Command Line Toot | bq
+| 1.8 MiB
+| Installed | Cloud storage Command Line Tool | gsutit
+| 12.4 MiB
+| Installed | Google Cloud CLI Core Libraries | core
+| 23.2 iB
+|| Installed | Google Cloud cRC32C Hash Tool | getoud-cre3ze
+1 | 1.4 MiB iF
+1
+
+To install or remove components at your current Google Cloud CLI version [547.6.0], run
+$ gcloud components install COMPONENT_ID
+$ gcloud components remove COMPONENT_ID
+
+To update your Google Cloud CLI installation to the latest version [547.0.0], run
+$ gcloud components update
+
+Modify profile to update your $PATH and enable shell command completion?
+
+Do you want to continue (Y/n)? y
+
+The Google Cloud SDK installer will now prompt you to update an rc file to bring the Google Cloud
+CLIs into your environment.
+
+nter a path to an re file to update, or leave blank to use [/Users/muditatrey/.zshrc]:
+
+=== Image 11.png ===
+Google Cloud
+
+Google Cloud SDI
+
+Technology areas. ¥ Cross-produc > © Search / = @ Language ~ Console
+
+IK Contact Us
+
+Application development > Google Cloud SDK
+
+You are now authenticated with the send feedback
+gcloud CLI!
+
+On this page
+
+Information about command-line tools and client libraries
+
+Tutorials
+
+Feedback
+
+The authentication flow has completed successfully. You may close this window, or check out the resources below.
+
+Information about command-line tools and client libraries
+
+To learn more about Google Cloud CLI commands, see the gcloud CLI guide.
+
+To learn more about the command-line tools for App Engine, Compute Engine, Cloud Storage, BigQuery, Cloud SQL, and
+Cloud DNS (which are all bundled with the gcloud CLI), see Accessing services with the gcloud CLI.
+
+If you're a client application developer and want to find out more about accessing Google Cloud services with a
+programming language or framework, see Client Libraries Explained.
+=== Image 12.png ===
+Build web applications in any language, any framework
+
++. Beeg: 72
+@ _ Gemini CLI is available in Cloud Shell terminal! Type gemini to try it Don't show again
+Welcome to Cloud Shell! Type “help* to get started, or type "gemini" to try prompting with Gemini cL
+I.
+Your Cloud Platform project in this session is set to peaceful-garden-477817-u9.
+
+Use “gcloud config set project [PROJECT 1D]* to change to a different project.
+muditatrey007écloudshell:~ (peaceful-garden-477617-u9) 5 ff
+=== Image 13.png ===
+@ © BB Jg00g!e-cloud-sdk/bin/gcloud init
+
+https: //accounts. google. con/o/oauth2/auth?response_type=code&client_id=32555940559. apps. googleu
+'sercontent . com&redirect_uri=http%3A%2F%2F Localhostx3A8085%2F&scope=openid+https%SAX2FX2FUWW. googLea
+pis.com%2Fauth%2Fuserinfo.email+https%3A%2FX2Fuww. googleapis . comé2Fauth%2Fcloud-platform+nttpsx3Ax2
+FX2Fuww. googLeapis. comk2Fauthx2Fappengine. admin+https%3AX2FX2FuwW. googLeapis. comk2Fauthk2Fsqlservic
+Ree rere Rae aS nS PLES PRG TEES SVC ESC
+Faccounts . reauth&state="iypnrENumjTZ2LTiETU4YKOIZ8ruV&access_type=offline&code_challenge=Lj06PY7nlN,
+CzkIcLLWrXtNSe-GeEdVetCTdokk92Sxwé&code_challenge_method=S256
+
+You are signed in as:
+
+[muditatreya07@gmait.com].
+
+Pick cloud project to use:
+[1] indigo-terra-335116
+[2] jarvis-5b558
+[3] jarvis-82c4d
+[4] optimal-inis-442104-d1
+| [5] peaceful-garden-477817-u9
+[6] symbolic-app-446214-s5
+[7] Enter a project ID
+[8] Create a new project
+Please enter numeric choice or text value (must exactly match list item): 5
+
+Your current project has been set to: [peaceful-garden-477817-u9]
+
+Not setting default zone/region (this feature makes it easier to use
+
+[gcloud compute] by setting an appropriate default value for the
+
+—zone and --region flag).
+
+See https: //cloud.google.con/compute/docs/gcloud-compute section on how to set
+default compute region and zone manually. If you would Like [gcloud init] to be
+able to do this for you the next time you run it, make sure the
+
+Compute Engine API is enabled for your project on the
+
+https: //console.developers.google.con/apis page.
+=== Image 14.png ===
+© @ @ BB Gcloud Example — nano main.py — 80x24
+
+Bron flask import Flask
+
+app = Flask(__name,
+
+@app-route("/*)
+
+def hello():
+return "HELLO MUDIIIIIIIIT! 11111111"
+
+Writeout
+
+Get Help
+Exit Justify
+
+Read File MJ Prev Pg
+Where is [i Next Pg
+
+=== Image 15.png ===
+© @ @ BB Ccloud Example — nano requirements.txt — 80x24
+
+Writeout
+Justify
+
+cur Pos
+
+Get Help cut Text
+Exit MY uncut Text To spell
+
+Read File MJ Prev Pg
+Where is [Ml] Next Pg
+=== Image 16.png ===
+Gcloud Example — nano app.yaml — 80x24
+
+Huntine: pythongi1
+entrypoint :gunicorn ~
+
+SPORT main:app
+
+Get Help [MJ Writeout i Read File [MJ Prev Pg
+Exit a a
+
+Justify Where is [i Next Pg
+
+cut Text 9 cur Pos
+Uncut Textil To Spell
+=== Image 17.png ===
+* Run ‘gcloud cheat-sheet’ to see a roster of go-to ‘gcloud’ commands.
+(base) muditatrey@Ged ~ % ./google-cloud-sdk/bin/gcloud init]
+
+=== Image 18.png ===
+(base) muditatrey@Ged ~ % ./google-cloud-sdk/bin/gcloud auth Login
+Your browser has been opened to visit:
+
+https: //accounts. google. con/o/oauth2/auth?response_type=code&client_id=32555940559. apps. googleu
+sercontent.. com&redirect_uri=httpx3AX2F%2F LocaLhost%3A8085%2F&Scope=openid+httpsxsAX2F%2Fuww.googlea
+pis. com%2Fauth%2Fuserinfo.email+https%sa%2F%2Fumw. googLeapis . com%2Fauth%2FcLoud-platform+https%3Ax2
+F&2Fww. googLeapis . com&é2Fauth%2Fappengine. admin+httpsx3AX2FX2Fwuw. googleapis..com%2Fauthk2Fsqlservic
+e. Login+https%3A%2F%2F www. googleapis . com%2Fauth%2Fcompute+https%sA%2FX2Fumw. googLeapis . comé2Fauth%2
+Faccounts. reauth&state=1P6H2JgU3aac8TEBYsGjZE07Db8ZVréaccess_type=offline&code_challenge=oDi_wt-Upp
+hYoWTi6RbVNna6PhOs_s1PDJiSVQNCéKM&code_challenge_method=S256
+
+You are now logged in as [muditatreye07@gnail. com}
+Your current project is [peaceful-garden-477817-u9]. You can change this setting by running
+$ gcloud config set project PROJECT_ID
+=== Image 19.png ===
+aa muditatrey@Ged ~ % ./google-cloud-sdk/bin/gcloud config set project peaceful-garden-477817-u
+9
+=== Image 20.png ===
+a eee
+(base) muditatrey@Ged ~ % ./google-cloud-sdk/bin/gcloud config set project peaceful-garden-477817-u9
+INFORMATION: Project ‘peaceful-garden-477817-u9' has no ‘environment’ tag set. Use either ‘Production’,
+jt’, or ‘Staging’. Add an ‘environment’ tag using “gcloud resource-manager tags bindings create’.
+
+Updated property [core/project] |
+(base) muditatrey@Ged ~
+
+Development’,
+
+"Tes|
+=== Image 21.png ===
+(base) muditatrey@sed ~ % cd ~/Documents/Codes/Gcloud\ Example
+
+(base) muditatrey@Ged Gcloud Example % 1s
+fapp yam main. py requirements. txt
+
+=== Image 22.png ===
+(base) muditatrey@Ged Gcloud Example % ~/google-cloud-sdk/bin/gcloud app deploy
+WARNING :
+c_scaling.max_instances. Starting from March, 2025, App Engine sets the automatic
+ndard environment deployments to 20. This change doesn't impact existing apps. To
+instances value in your app.yaml file, and deploy a new version or redeploy over
+nstances, see https: //cloud. google. com/appengine/docs/standard/reference/app-yaml
+
+Services to deploy:
+
+descriptor:
+
+source:
+
+target
+target
+target
+target
+target
+
+project:
+service:
+version:
+url:
+
+service account:
+
+You might be using automatic scaling for a standard environment deployment, without providing a value for avtomati :
+
+scaling maximum instances default for sta
+override the default, specify the new max
+an existing version. For details on max_i
+-md#scaling_elements .
+
+[/Users/muditatrey/Documents/Codes/Gcloud Example/app.yaml]
+
+[/Users/muditatrey/Documents/Codes/Gcloud Example]
+[peaceful-garden-477817-u9]
+
+[defauit]
+(20251113t212119]
+
+(https: //peaceful-garden-477817-u9.el.r.appspot.com]
+
+[peaceful-garden-477817-u9@appspot . gserviceaccount.com]
+
+Do you want to continue (Y/n)? y
+
+Beginning deployment of service [default] ...
+
+Uploading @ files to Google Cloud Storage
+
+File upload done.
+Updating service [default] ...done.
+
+‘Setting traffic split for service [default]
+Deployed service [default] to (f
+
+You can stream logs from the command line by running:
+
+$ gcloud app logs tail -s default
+
+To view your application in the web browser run:
+$ gcloud app browse
+(base) muditatrey@Ged Gcloud Example %
+=== Image 23.png ===
+@ hitps://peaceful-garden-477817-u9.el..appspot.com
+
+Q. https://peaceful-garden-477817-u9.el.r.appspot.com
+
++ Add tabs orfiles =~ eg
+=== Image 24.png ===
+< > @ _ peaceful-garden-477817-u9.el.r.appspot.com
+
+HELLO MUDIIIMINIT!!!!!1!!!
+
+=== Image 25.png ===
+< > G _ console.cloud.google.com
+
+jons ~ App Engine ~ My First Project
+
+Search (/) for resources, docs, products, and more
+
+Qsearch
+
+-@: App Engine / Dashboard / Versions
+
+Dashboard
+i Services
+versions
+
+Instances
+
+Task queues
+© — Cronjobs
+Firewall rules
+Quotas
+Memcache
+
+Search
+
+Settings
+
+Versions CG Refresh B De
+
+Filter Filter versions
+
+Os version Status
+OO 202511131212119 Serving
+
+M Stop Start Migrate traffic
+
+Traffic Allocation
+
+oe 100%
+
+Instances ©
+
+o
+
+‘S Split traffic
+
+Runtime
+
+python311
+
+Runtime Lifecycle @
+General Availability (GA)
+
+Environment
+
+Standard
+
+size
+
+8.3MB
+
+=== Image 26.png ===
+< > G _ console.cloud.google.com
+
+Setting:
+
+Google Cloud
+
+My First Project Search (/) for resources, docs, products, and more
+
+Qsearch +
+
+-@: App Engine / Dashboard / Settings
+
+Dashboard
+
+i Services
+Versions
+Instances
+
+Task queues
+
+Cron jobs
+
+Firewall rules
+
+Quotas
+Memcache
+
+Search
+
+eo
+
+Settings
+
+Settings
+Application settings Customdomains SSL certificates__—_—Emaill senders
+Google login cookie Default (1 day)
+expiration
+Referrers Google Accounts API
+Default service account peaceful-garden-477817-
+u9@appspot.gserviceaccount.com
+SSL Policy TLS 1.0+ (Obsolete)
+
+Edit Application Settings
+
+Disable application
+
+Disabling an application will stop all serving requests, but you will not lose any
+data or state. Billing charges will still incur when applicable. You can re-enable
+your application at any time.
+
+Disable application
+
+Default Cloud Storage Bucket
+
+Up to 5GB of Cloud Storage may be used with App Engine applications without
+enabling billing. Learn more &.
+peaceful-garden-477817-u9.appspot.com
+
+Identity-Aware Proxy
+
+Manage access to services hosted on App Engine.
+Currently access is DISABLED.
+
+Configure Now
+
+Dean
+=== Image 27.png ===
+Disable app peaceful-garden-477817-u9?
+
+If you disable this app, a few things will happen:
+
++ The app will stop serving
++ Alldata and state will be saved
+
+* Billing charges will still incur when applicable
+
++ Your task queues will continue to run. They can be paused in the
+
+peaceful-garden-477817-u9|
+
+To disable application please confirm by re-typing its ID: peaceful-garden-477817-u9
+
+=== Image 28.png ===
+< > G _ console.cloud.google.com / Versions ~ App Engine ~ My First Pr
+
+= Google Cloud | & My First Project Search (/) for resources, docs, products, and more
+
+-@: App Engine / Dashboard / Versions
+
+Dashboard Versions CG Refresh
+
+i Services
+
+Versions
+Your app is currently disabled
+Instances a oD y
+Task queues
+= Filter Filter versions
+® Cron jobs
+Os version Status Traffic Allocation
+aad  _202511131212119%% ~—Stopped oe 100%
+Quotas
+Memeache
+Search
+
+Settings
+
+Instances ©
+
+‘S Split traffic
+
+Runtime
+
+python311
+
+Qsearch | + a G@) ® i @
+
+Enable in settings
+
+Oo l
+Runtime Lifecycle @ Envir
+General Availability (GA) Stanc
